@@ -44,7 +44,7 @@ circle.forEach((circles) => {
     })
 })
 
-console.log("ciao")
+
 
 // test immagini che appaiono
 
