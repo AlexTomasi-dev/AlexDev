@@ -1,0 +1,26 @@
+
+/* Style puntatore*/
+
+.cursor{
+    width: 32px;
+    height:32px;
+    border-radius: 100%;
+    background: rgba(3, 151, 3, 0.842);
+    position: fixed;
+    top: 0; left: 0;
+    z-index: 9999999;
+    transform: translate(-8px, -8px);
+    transition: all 0.3s cubic-bezier(.215, .61, .355, 1);
+    pointer-events: none;
+}
+
+.cursor.hover{
+    width: 128px;
+    height: 128px;
+    background-color: rgba(0, 255, 55, 0.424);
+}
+
+.cursor.min{
+    width: 20px;
+    height: 20px;
+}

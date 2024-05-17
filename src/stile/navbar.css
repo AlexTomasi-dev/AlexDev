@@ -1,0 +1,40 @@
+
+.navbar-css{
+    position: sticky;
+    top: 0;
+    background-color: #f2eeee;
+    z-index: 150;
+}
+
+.row-css {
+    height: 70px;
+    
+    & .link{
+        & a{
+            font-size: 1.2rem;
+            color: rgba(3, 151, 3, 0.842);
+            text-decoration: none;
+            font-weight: bold;
+        }
+    
+        & a:hover{
+            color: black;     
+            & .pallino{
+                display: inline-block;
+            }
+        }
+    }
+}
+
+
+.pallino{
+    display: none;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%
+}
+
+
+
+

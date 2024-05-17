@@ -1,0 +1,21 @@
+
+
+.footer-css{
+    background-color: #1c1c1c;;
+    height: 55vh;
+    border-radius: 20px;
+
+    & h2{
+        font-size: 150px;
+        color: white;
+    }
+}
+
+.contatti-css{
+    color: white;
+
+    & a{
+        text-decoration: none;
+        color: white;
+    }
+}

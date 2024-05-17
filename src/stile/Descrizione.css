@@ -1,0 +1,18 @@
+
+
+.letter-C-css{
+    color: #A4A4A4;;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+
+
+
+@media (min-width:0px ) and (max-width:600px){
+    .letter-C-css{
+        color: #A4A4A4;;
+        font-weight: 600;
+        font-size: 2rem;
+    }
+}
