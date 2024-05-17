@@ -7,10 +7,10 @@ function Header (){
         <div className="container">
              <div className="row header-row-stile">
                  <div className="col-12  col-lg-6  text-center my-auto">
-                     <h1>ALEX <br /> tosdfsmasi</h1>
+                     <h1>ALEX <br /> TOMASI</h1>
                  </div>
                  <div className="col-12  col-lg-6 mia-img text-center my-auto">
-                     <img src="./src/assets/mia-img.png" alt="Mia foto Alex Tomasi" />
+                     <img src="/assets/mia-img.png" alt="Mia foto Alex Tomasi" />
                  </div>
              </div>
              
