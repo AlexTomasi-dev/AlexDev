@@ -1,4 +1,4 @@
-
+import "../assets/mia-img.png"
 
 function Header (){
 
